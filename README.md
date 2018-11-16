@@ -44,11 +44,11 @@ The OpenCV functions `findChessboardCorners` and `calibrateCamera` are the backb
 
 The image below depicts the results of applying `undistort`, using the calibration and distortion coefficients, to one of the chessboard images:
 
-![alt text][im01]
+![alt text][im02]
 
 I then used the output objpoints and imgpoints to compute the camera calibration and distortion coefficients using the cv2.calibrateCamera() function. I applied this distortion correction to the test image using the cv2.undistort() function and obtained this result:
 
-![alt text][im02]
+![alt text][im01]
 
 ## Pipeline (single images)
 #### 1. Provide an example of a distortion-corrected image.
