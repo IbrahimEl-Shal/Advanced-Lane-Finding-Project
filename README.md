@@ -17,7 +17,7 @@ position.
 
 [//]: # (Image References)
 [im00]:./camera_cal/calibration1.jpg "Chessboard Original Image"
-[im01]:./output_images/image0.jpg "Chessboard calibration"
+[im01]:./output_images/image0.png "Chessboard calibration"
 [im02]:./output_images/image1.png "Undistorted Chessboard"
 [im03]:./test_images/test1.jpg "Undistorted Image"
 [im04]:./output_images/image4.png "Undistorted Image"
