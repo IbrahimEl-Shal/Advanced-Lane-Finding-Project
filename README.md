@@ -31,6 +31,8 @@ position.
 [im12]:./output_images/image13.png
 [im13]:./output_images/image14.png
 
+[video1]: ./project_video_output.mp4 "Video"
+
 ### Camera Calibration
 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
@@ -140,3 +142,6 @@ I implemented this step in the code cells titled "Draw the Detected Lane Back on
 Below is an example of the results of the `draw_data` function, which writes text identifying the curvature radius and vehicle position data onto the original image:
 
 ![alt text][im13]
+
+
+[Project video - diagnostic version](./project_video_output.mp4)
