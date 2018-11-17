@@ -143,5 +143,13 @@ Below is an example of the results of the `draw_data` function, which writes tex
 
 ![alt text][im13]
 
+## Discussion
+
+#### 1. Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
+
+* There are a few improvements that could be done on the performance of the process due to repetitive calculations.
+* More information could be use from frame to frame to improve the robustness of the process.
+* Other gradients could be use (Ex. Laplacian) to improve the line detection.
+* I encountered were almost exclusively due to lighting conditions, shadows, discoloration, etc. 
 
 [Project video - diagnostic version](./project_video_output.mp4)
